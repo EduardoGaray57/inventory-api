@@ -10,7 +10,7 @@ SECRET_KEY = os.getenv('SECRET_KEY')
 
 DEBUG = os.getenv('DEBUG', 'False') == 'True'
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['inventory-api-production-80f7.up.railway.app']
 
 INSTALLED_APPS = [
     'django.contrib.admin',
