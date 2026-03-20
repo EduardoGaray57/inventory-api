@@ -122,6 +122,13 @@ DB_PORT=
 ```
  
 ---
+
+## 🔗 Proyectos relacionados
+
+- [daily-planner-web](https://github.com/EduardoGaray57/daily-planner-web) — Aplicación fullstack con React + Django
+- [daily-planner-api](https://github.com/EduardoGaray57/daily-planner-api) — Backend Django REST del daily planner
+
+---
  
 ## 👨‍💻 Autor
  
